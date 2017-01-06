@@ -1,15 +1,15 @@
 SecretCheckboxTicket
---------------------
+====================
 
 Add ticket security policy for Trac.
 
 Installation
-============
+------------
 
     pip install git+https://github.com/104corp/trac-secret-checkbox-ticket.git
 
 Configuration
-=============
+-------------
 
 In `trac.ini`:
 
