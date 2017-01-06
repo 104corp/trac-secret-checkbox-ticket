@@ -21,3 +21,8 @@ In `trac.ini`:
 
     [trac]
     permission_policies = SecretCheckboxTicketPolicy, [... original policies ...]
+
+License
+-------
+
+3-Clause BSD
