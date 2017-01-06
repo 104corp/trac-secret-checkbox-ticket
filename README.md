@@ -1,4 +1,4 @@
 SecretCheckboxTicket
 --------------------
 
-Add ticket security policy.
+Add ticket security policy for Trac.
