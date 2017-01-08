@@ -3,6 +3,12 @@ SecretCheckboxTicket
 
 Add ticket security policy for Trac.
 
+It will create a checkbox, which will forbid from TICKET_VIEW permission except:
+
+* Reporter
+* Owner
+* In cc list
+
 Installation
 ------------
 
